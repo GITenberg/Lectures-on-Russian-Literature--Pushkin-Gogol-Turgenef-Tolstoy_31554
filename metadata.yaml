@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35327
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Panin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31554#Lectures-on-Russian-Literature--Pushkin-Gogol-Turgenef-Tolstoy
 gutenberg_issued: '2010-03-08'
 gutenberg_type: Text
 identifiers:
