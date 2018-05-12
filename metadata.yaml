@@ -1,0 +1,29 @@
+_repo: Lectures-on-Russian-Literature--Pushkin-Gogol-Turgenef-Tolstoy_31554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Panin, Ivan
+    alias: Panin, I. (Ivan)
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '35327'
+    url: http://www.gutenberg.org/2009/agents/35327
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Panin
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31554'
+  lccn: '43048951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian literature -- 19th century -- History and criticism'
+title: 'Lectures on Russian Literature: Pushkin, Gogol, Turgenef, Tolstoy'
+url: http://www.gutenberg.org/ebooks/31554
